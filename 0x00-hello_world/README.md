@@ -11,3 +11,7 @@
 [5-printf.c](./5-printf.c) prints exactly with proper grammar, but the outcome is a piece of art, using printf
 
 [6-size.c](./6-size.c) prints the sizes of different data types in c
+
+[100-intel](./100-intel) generates intel syntax assembly code of CFILE
+
+
