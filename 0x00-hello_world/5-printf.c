@@ -5,7 +5,7 @@
  * Description: prints exactly
  * "with proper grammar, but the outcome is a piece of art,"
  * followed by a newline
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
