@@ -14,4 +14,4 @@
 
 [100-intel](./100-intel) generates intel syntax assembly code of CFILE
 
-
+[101-quote.c](./101-quote.c) displays exactly  and that piece of art is useful" - Dora Korpar, 2015-10-19 to the standard error
